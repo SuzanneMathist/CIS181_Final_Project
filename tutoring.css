@@ -1,0 +1,175 @@
+@charset "UTF-8";
+
+body{
+	background-image:url(images/gridwebready.png);
+	margin:0 auto;
+	}
+
+#wrapper{
+	 margin:0 auto;
+	 max-width:1280px;
+	 min-width:700px;
+	 height:auto;
+	 }
+
+#tutorpage {
+	margin: 0% 1% 0% 1%;
+}
+
+#title {
+	font-family: OCR A Std, 'Orbitron', sans-serif;
+ 	padding-top: 2%;
+ 	padding-left: 20px;
+ 	font-size: 150%;
+ 	color: #0000FF;
+	width: 330px;
+	float: left;
+}
+
+#sub {
+	color: #660066;
+}
+
+#logo ul {
+	float: right;
+}
+ 
+#logo ul li{
+	list-style: none;
+	display:inline-block;
+	font-family: OCR A Std, 'Orbitron', sans-serif;
+ 	color: #0000FF;
+	font-size: 120%;
+}
+
+#and {
+	font-size: 250%;
+	color:rgba(204,0,255,.60);
+	width: 10%;
+}
+
+header {
+	padding-right: 2%;
+	padding-bottom: 25px;
+}
+
+nav {
+	background-color:rgba(204,0,255,.60);
+	font-size: 125%;
+	clear: both;
+}
+
+nav ul {
+		padding-top:1%;
+		padding-bottom:1%;
+}
+
+nav ul li {
+	display: inline-block;
+	font-family: OCR A Std, 'Orbitron', sans-serif;
+	list-style: none;
+	width:15%;
+	text-align:center;
+}
+
+nav ul li a{
+	text-decoration:none;
+	color:#66FFCC;
+	margin:0 auto;
+	
+}
+
+.active{    
+color:#660066 !important;
+}
+
+nav ul li a:hover{    
+color:#0000FF;
+}
+
+#photos1{width:85%;}
+
+#photos1 ul li {
+	display: inline-block;
+	list-style: none;
+	width:32%;
+}
+
+#photos1 ul li img{width:75%;}
+
+#tutoring {
+	font-family: OCR A Std, 'Orbitron', sans-serif;
+	color: #000000;
+	font-size: 200%;	
+}
+
+#tutorstuff {
+	width:92%;
+	background-color:rgba(102,255,204,.50);
+	padding:1em;
+	color: #000000;
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+	margin-right: 5%;
+	line-height: 1.2em;
+}
+
+article {
+	float: left;
+	width:50%;
+	}
+
+#parentstuff {
+	background-color:rgba(0,0,255,.60);
+	padding:1em;
+	color: #FFFFFF;
+	width: 90%;
+	margin-top:2%;
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+	line-height: 1.2em;
+}
+
+aside{
+	float: right;
+	width:45%;
+	}
+
+#people {
+	font-family: OCR A Std, 'Orbitron', sans-serif;
+	color: #FFFFFF;
+	font-size: 175%;
+}
+
+#photos2 ul li img {
+	width:80%;
+	}
+
+#photos2 ul li {
+	display: inline-block;
+	list-style: none;
+	width: 32%;
+}
+
+footer{
+		color:#66FFCC;
+		font-family: OCR A Std, 'Orbitron', sans-serif;
+		text-align: center;	
+		clear:both;
+		background-color:rgba(204,0,255,.60);
+		font-size: 13px;
+		padding: .04em;
+}
+
+#anchor a{
+		text-decoration:none;
+		font-family: OCR A Std, 'Orbitron', sans-serif;
+	    color:#0000FF;}
+
+#anchor{
+	clear:both;
+	text-align:right;
+	margin-top:1%;
+	padding-right: 1%;
+}
+
+/* CSS Document */
+
